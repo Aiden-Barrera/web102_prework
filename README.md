@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Aiden Barrera**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Crowdfunding Inventory** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,10 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] The Game Card can be clicked to focus the card in the middle of the screen and provide more detail about the game.
+* [ ] The User can search for a speicifc game in the search bar, in which there game card will appear in the middle of the screen.
+* [ ] CSS styling to make the cards pop a little more with scaling and box-shadows.
+* [ ] The stats card are able to be individually hovered with a much cleaner look. 
 
 ## Video Walkthrough
 
@@ -35,6 +38,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+* [ ] Refreshing on my Javascript took some time, but was very rewarding getting over the hump.
 
 ## License
 
