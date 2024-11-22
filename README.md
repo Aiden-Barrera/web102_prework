@@ -1,4 +1,4 @@
-# WEB102 Prework - *Sea Monster Crowdfunding*
+# WEB102 Prework - *Crowdfunding Inventory*
 
 Submitted by: **Aiden Barrera**
 
