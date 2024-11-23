@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/pfu3UZW)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![](https://github.com/Aiden-Barrera/web102_prework/blob/main/assets/WEB102.gif)
+![WEB102](https://github.com/user-attachments/assets/ecbd8fc0-a537-4286-8b41-8cb1884194a5)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
