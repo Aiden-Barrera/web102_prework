@@ -25,7 +25,6 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<iframe src="https://giphy.com/embed/ecAhs0edoZ44sLBS7h" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ecAhs0edoZ44sLBS7h">via GIPHY</a></p>
 ![WEB102](https://i.giphy.com/media/ecAhs0edoZ44sLBS7h/giphy.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
