@@ -27,10 +27,10 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/pfu3UZW)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![WEB102](https://github.com/user-attachments/assets/77a34154-1afd-4826-a65e-b51da5ac6b0f)
+![WEB102](https://github.com/user-attachments/assets/77a34154-1afd-4826-a65e-b51da5ac6b0f.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiCe  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
