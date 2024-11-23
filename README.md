@@ -27,8 +27,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/pfu3UZW)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![WEB102](https://github.com/user-attachments/assets/5855939f-5f1f-475c-8538-eb6ce965226d)
-
+![WEB102](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNxNjM4b2VqNHdxOWxjM2h3bGVxbTZuM3F0ZmlteTFiMnd4OGdqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ecAhs0edoZ44sLBS7h/giphy.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
 <!-- Recommended tools:
