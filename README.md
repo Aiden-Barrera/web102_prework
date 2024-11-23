@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/pfu3UZW)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![WEB102](file:///Users/aidenbarrera/Documents/WEB102%20copy.gif)
+![WEB102](https://github.com/user-attachments/assets/5855939f-5f1f-475c-8538-eb6ce965226d)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
