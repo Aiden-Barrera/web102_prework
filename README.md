@@ -25,6 +25,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+
 ![WEB102](https://i.giphy.com/media/ecAhs0edoZ44sLBS7h/giphy.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
